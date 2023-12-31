@@ -1,0 +1,3 @@
+10 shahil 50
+30 ram 55
+32 sita 65
